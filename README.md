@@ -28,4 +28,4 @@ If you'd like to make an addition to this GitHub, please don't hesitate to submi
 
 -KoriaN *Polish*
 
--Dutch *6eye^^*
+-7eye^^ *Dutch*
