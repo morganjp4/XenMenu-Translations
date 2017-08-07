@@ -470,7 +470,7 @@
 	"Move Object": "Siirrä esinettä",
 	"Invites": "Kutsut",
 	"Invite to Apartment": "Kutsu asuntoon",
-	"Hancock Mode_tooltip": "Sallii sinun lentää kuin supermies.\nNäppäimet:\n$<hancock_up> - Up\n$<hancock_down> - Down\n",
+	"Hancock Mode_tooltip": "Sallii sinun lentää kuin supermies.\nNäppäimet:\n$<hancock_up> - Ylös\n$<hancock_down> - Alas\n",
 	"Walk On Air_tooltip": "Näppäimet:\n$<walk_on_air_up> - Up\n$<walk_on_air_down> - Down",
 	"Vehicle Fly Mode_tooltip": "Näppäimet:\n$<veh_fly_forward> - Eteenpäin\n$<veh_fly_backwards> - Taaksepäin\n$<veh_fly_left> - Käänny vasemmalle\n$<veh_fly_right> - Käänny oikealle\n$<veh_fly_pitch_up> - Kaarra ylös\n$<veh_fly_pitch_down> - Kaarra alas\n",
 	"Vehicle_Manager_VEH_tooltip": "$<veh_manager_tp_self> - Teleporttaa itsesi kulkuneuvoon\n$<veh_manager_tp_vehicle> - Teleporttaa kulkuneuvo itseesi\n$<veh_manager_delete_vehicle> - Poista kulkuneuvo",
