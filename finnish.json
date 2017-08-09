@@ -1,5 +1,5 @@
 {
-	"_AUTHOR": "XenMenu",
+	"_AUTHOR": "DNSMaster",
 
 	"Chalet London": "Chalet London",
 	"House Script": "House Script",
@@ -411,7 +411,7 @@
 	"Show Vehicle Previews": "Näytä kulkuneuvojen esikatselukuvat",
 	"Show Vehicle Previews_tooltip": "Näyttää kuvan valitusta kulkuneuvosta ennen luontia.",
 	"Custom Key 1 not set.": "Pikanäppäin 1 ei asetettu.",
-	"Custom Key 1 not set._tooltip": "Avaa asetustiedosto ja määritä näppäin tälle pikanäppäimelle!.",
+	"Custom Key 1 not set._tooltip": "Avaa asetustiedosto ja määritä näppäin tälle pikanäppäimelle!",
 	"Custom Key 2 not set.": "Pikanäppäin 2 not set",
 	"Custom Key 2 not set._tooltip": "Avaa asetustiedosto ja määritä näppäin tälle pikanäppäimelle!",
 	"Custom Key 3 not set.": "Pikanäppäin 3 ei asetettu.",
