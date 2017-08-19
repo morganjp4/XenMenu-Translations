@@ -533,7 +533,6 @@
 	"Spawn Settings": "Plaats instellingen",
 	"Creator Settings": "Creator instellingen",
 
-	"0comment_MISSING_KEYS": "DONT CHANGE THIS",
 	"MAIN MENU": "HOOFDMENU",
 	"SELF OPTIONS": "JEZELF",
 	"SELF ANIMATIONS": "ANIMATIES (JEZELF)",
@@ -610,5 +609,5 @@
 	"Clean/Fix vehicle": "Voertuig schoonmaken en repareren",
 	"X Rotation": "X draaiing",
 	"Y Rotation": "Y draaiing",
-	"Z Rotation": "Z draaiing",
+	"Z Rotation": "Z draaiing"
 }
