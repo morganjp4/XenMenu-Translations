@@ -605,6 +605,7 @@
 	"UI > SELECTED OPTION BACKGROUND": "OPTIE ACHTERGROND",
 	"UI > FOOTER BACKGROUND": "VOET ACHTERGROND",
 	"Search for a Model": "Een model zoeken",
+	"Search for a Model_tooltip": "Opent een invoerveld waarin je naar een model kunt zoeken.",
 	"Clean/Fix vehicle": "Voertuig schoonmaken en repareren",
 	"X Rotation": "X draaiing",
 	"Y Rotation": "Y draaiing",

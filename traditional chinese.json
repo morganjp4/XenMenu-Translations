@@ -608,6 +608,7 @@
 	"UI > SELECTED OPTION BACKGROUND": "UI > 選中的選項背景",
 	"UI > FOOTER BACKGROUND": "UI > 提示欄背景",
 	"Search for a Model": "尋找一個模型",
+	"Search for a Model_tooltip": "Opens a keyboard and allows you to search for a model to use.",
 	"Clean/Fix vehicle": "清潔/修理載具",
 	"X Rotation": "X方向旋轉",
 	"Y Rotation": "Y方向旋轉",

@@ -619,6 +619,7 @@
 	"UI > SELECTED OPTION BACKGROUND": "UI > SELECTED OPTION BACKGROUND",
 	"UI > FOOTER BACKGROUND": "UI > FOOTER BACKGROUND",
 	"Search for a Model": "Search for a Model",
+	"Search for a Model_tooltip": "Opens a keyboard and allows you to search for a model to use.",
 	"Clean/Fix vehicle": "Clean/Fix vehicle",
 	"X Rotation": "X Rotation",
 	"Y Rotation": "Y Rotation",
