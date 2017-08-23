@@ -478,7 +478,7 @@
 	"Vehicle Drift_tooltip": "Pidä pohjassa $<drift_mode> Driftataksesi!",
 	"Vehicle Jump_tooltip": "Painele $<vehicle_jump> Hypätäksesi!",
 	"Vehicle Weapon_tooltip": "Näppäimet:\n$<vehicle_weapons> - Ammu",
-	"Speed Boost_tooltip": "Pidä pohjassa $<horn_boost> nopeuttaaksesi!",
+	"Speed Boost_tooltip": "Pidä pohjassa $<speed_boost> nopeuttaaksesi!",
 	"Wheels": "Renkaat",
 	"Wheel Type": "Renkaan tyyppi",
 	"Wheel Accessories": "Rengasvarusteet",

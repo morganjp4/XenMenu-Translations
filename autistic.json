@@ -478,7 +478,7 @@
 	"Invites": "invitz",
 	"Invite to Apartment": "invite to apartman",
 	"Vehicle Fly Mode_tooltip": "Controls:\n$<veh_fly_forward> - Forward\n$<veh_fly_backwards> - Backwards\n$<veh_fly_left> - Turn left\n$<veh_fly_right> - Turn right\n$<veh_fly_pitch_up> - Pitch up\n$<veh_fly_pitch_down> - Pitch down\n",
-	"Speed Boost_tooltip": "long press $<horn_boost> to go quick",
+	"Speed Boost_tooltip": "long press $<speed_boost> to go quick",
 	"Wheels": "round controlling wheel",
 	"Wheel Type": "wheel typing",
 	"Wheel Accessories": "flashy wheels",

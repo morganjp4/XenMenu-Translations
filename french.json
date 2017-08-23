@@ -477,7 +477,7 @@
 	"Vehicle Drift_tooltip": "Hold $<drift_mode> to Drift!",
 	"Vehicle Jump_tooltip": "Tap $<vehicle_jump> to jump!",
 	"Vehicle Weapon_tooltip": "Controls:\n$<vehicle_weapons> - Shoot",
-	"Speed Boost_tooltip": "Hold $<horn_boost> to boost!",
+	"Speed Boost_tooltip": "Hold $<speed_boost> to boost!",
 	"Wheels": "Wheels",
 	"Wheel Type": "Wheel Type",
 	"Wheel Accessories": "Wheel Accessories",

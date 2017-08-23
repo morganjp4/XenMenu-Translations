@@ -477,7 +477,7 @@
 	"Vehicle Drift_tooltip": "按住 $<drift_mode> 漂移!",
 	"Vehicle Jump_tooltip": "按 $<vehicle_jump> 跳躍!",
 	"Vehicle Weapon_tooltip": "控制:\n$<vehicle_weapons> - 開火",
-	"Speed Boost_tooltip": "按住 $<horn_boost> 加速!",
+	"Speed Boost_tooltip": "按住 $<speed_boost> 加速!",
 	"Wheels": "輪轂",
 	"Wheel Type": "輪轂種類",
 	"Wheel Accessories": "輪轂附件",

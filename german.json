@@ -478,7 +478,7 @@
 	"Invites": "Einladungen",
 	"Invite to Apartment": "In die Wohnung einladen",
 	"Vehicle Fly Mode_tooltip": "Steuerung:\n$<veh_fly_forward> - Vorwärts\n$<veh_fly_backwards> - Rückwärts\n$<veh_fly_left> - Linksdrehung\n$<veh_fly_right> - Rechtsdrehung\n$<veh_fly_pitch_up> - Aufsteigen\n$<veh_fly_pitch_down> - Absteigen\n",
-	"Speed Boost_tooltip": "Halte $<horn_boost> für einen Boost!",
+	"Speed Boost_tooltip": "Halte $<speed_boost> für einen Boost!",
 	"Wheels": "Felgen",
 	"Wheel Type": "Felgentypen",
 	"Wheel Accessories": "Reifen Zubehör",

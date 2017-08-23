@@ -473,7 +473,7 @@
 	"Vehicle Drift_tooltip": "Houd $<drift_mode> ingedrukt om te driften!",
 	"Vehicle Jump_tooltip": "Druk op $<vehicle_jump> om te springen!",
 	"Vehicle Weapon_tooltip": "Toetsen:\n$<vehicle_weapons> - Schiet",
-	"Speed Boost_tooltip": "Houd $<horn_boost> ingedrukt om een boost te krijgen!",
+	"Speed Boost_tooltip": "Houd $<speed_boost> ingedrukt om een boost te krijgen!",
 	"Wheels": "Wielen",
 	"Wheel Type": "Wiel stijl",
 	"Wheel Accessories": "Wiel accessoires",

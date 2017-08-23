@@ -488,7 +488,7 @@
 	"Vehicle Drift tooltip": "Hold $<drift_mode> to Drift!",
 	"Vehicle Jump tooltip": "Tap $<vehicle_jump> to jump!",
 	"Vehicle Weapon tooltip": "Kawalan:\n$<vehicle_weapons> - Tembak",
-	"Speed Boost_tooltip": "Hold $<horn_boost> to boost!",
+	"Speed Boost_tooltip": "Hold $<speed_boost> to boost!",
 	"Wheels": "Tayar-Tayar",
 	"Wheel Type": "Jenis Tayar",
 	"Wheel Accessories": "Aksesori-Aksesori Tayar",

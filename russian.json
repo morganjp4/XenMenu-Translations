@@ -476,7 +476,7 @@
 	"Vehicle Drift_tooltip": "Удерживайте $<drift_mode> для дрифта!",
 	"Vehicle Jump_tooltip": "Нажмите $<vehicle_jump> для прыжка!",
 	"Vehicle Weapon_tooltip": "Управление:\n$<vehicle_weapons> - Стрелять",
-	"Speed Boost_tooltip": "Удерживайте $<horn_boost> для ускорения!",
+	"Speed Boost_tooltip": "Удерживайте $<speed_boost> для ускорения!",
 	"Wheels": "Колесо",
 	"Wheel Type": "Тип",
 	"Wheel Accessories": "Аксессуары",

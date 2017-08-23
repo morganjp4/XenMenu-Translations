@@ -477,7 +477,7 @@
 	"Vehicle Drift_tooltip": "Uzyj $<drift_mode> aby Driftowac!",
 	"Vehicle Jump_tooltip": "Uzyj $<vehicle_jump> aby skoczyc!",
 	"Vehicle Weapon_tooltip": "Sterowanie:\n$<vehicle_weapons> - Strzal",
-	"Speed Boost_tooltip": "Uzyj $<horn_boost> aby przyspieszyc!",
+	"Speed Boost_tooltip": "Uzyj $<speed_boost> aby przyspieszyc!",
 	"Wheels": "Opony",
 	"Wheel Type": "Typ Opon",
 	"Wheel Accessories": "Dodatki Opon",

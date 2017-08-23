@@ -477,7 +477,7 @@
 	"Vehicle_Manager_VEH_tooltip": "$<veh_manager_tp_self> - Telepontarse Mi en el Vehiculo\n$<veh_manager_tp_vehicle> - Telepontarse Vehiculo a Mi\n$<veh_manager_delete_vehicle> - Eliminar Vehiculo",
 	"Vehicle Jump_tooltip": "Pulse $<vehicle_jump> para Saltar!",
 	"Vehicle Weapon_tooltip": "Controls:\n$<vehicle_weapons> - Disparar",
-	"Speed Boost_tooltip": "Pulse $<horn_boost> para Impulsar!",
+	"Speed Boost_tooltip": "Pulse $<speed_boost> para Impulsar!",
 	"Wheels": "Rueda",
 	"Wheel Type": "Tipo de Rueda",
 	"Wheel Accessories": "Accesorios para Ruedas",
