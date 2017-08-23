@@ -441,7 +441,7 @@
 	"Alpha": "Alfa",
 	"Font": "Fonte",
 	"Language": "Linguagem",
-
+	
 	"0comment_NEW_IN_XEN_1.0.1": "DONT CHANGE THIS",
 	"Read Translation File": "Leia o Arquivo de Traducao",
 	"Flags": "Bandeiras",
@@ -449,7 +449,7 @@
 	"Rainbow Flicker": "Arco-Iris Flicker",
 	"Vehicle Fly Mode": "Veiculo Voa",
 	"Vehicle Fly Speed": "Velocidade que o Veiculo Voa",
-	"Horn Boost": "Impulso de Velocidade",
+	"Speed Boost": "Impulso de Velocidade",
 	"Respray": "Pintura",
 	"Respray_tooltip": "Transforma a aparencia do veiculo.",
 	"Primary Colour": "Cor Primaria",
@@ -475,7 +475,7 @@
 	"Vehicle Drift_tooltip": "Segure $<drift_mode> para fazer Drift!",
 	"Vehicle Jump_tooltip": "Toque $<vehicle_jump> para saltar!",
 	"Vehicle Weapon_tooltip": "Controles:\n$<vehicle_weapons> - Atirar",
-	"Horn Boost_tooltip": "Hold $<horn_boost> to boost!",
+	"Speed Boost_tooltip": "Hold $<horn_boost> to boost!",
 	"Wheels": "Rodas",
 	"Wheel Type": "Tipo de Roda",
 	"Wheel Accessories": "Acessorios de Roda",
