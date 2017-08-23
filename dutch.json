@@ -622,5 +622,7 @@
 	"Custom Key 7": "Snelkoppeling 7",
 	"Custom Key 8": "Snelkoppeling 8",
 	"Custom Key 9": "Snelkoppeling 9",
-	"Custom Key 10": "Snelkoppeling 10"
+	"Custom Key 10": "Snelkoppeling 10",
+	"Horn Boost": "Claxonboost",
+	"Horn Boost_tooltip": "Houd $<horn_boost> ingedrukt om een boost te krijgen!"
 }

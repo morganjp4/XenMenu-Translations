@@ -636,5 +636,7 @@
 	"Custom Key 7": "Custom Key 7",
 	"Custom Key 8": "Custom Key 8",
 	"Custom Key 9": "Custom Key 9",
-	"Custom Key 10": "Custom Key 10"
+	"Custom Key 10": "Custom Key 10",
+	"Horn Boost": "Horn Boost",
+	"Horn Boost_tooltip": "Hold $<horn_boost> to boost!"
 }

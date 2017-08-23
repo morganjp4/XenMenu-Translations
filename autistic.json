@@ -626,5 +626,7 @@
 	"Custom Key 7": "7 butting",
 	"Custom Key 8": "i ate the button",
 	"Custom Key 9": "lol it butt 6~h~9",
-	"Custom Key 10": "my button 10"
+	"Custom Key 10": "my button 10",
+	"Horn Boost": "tutut boost",
+	"Horn Boost_tooltip": "long press $<horn_boost> to go quick"
 }
