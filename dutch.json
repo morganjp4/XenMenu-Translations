@@ -596,6 +596,7 @@
 	"CUSTOM KEYS": "SNELKOPPELINGEN",
 	"LANGUAGE": "TAAL",
 	"REMOTE": "OP AFSTAND",
+	"FAVOURITES": "FAVORIETEN",
 	"UI": "UI",
 	"UI > TITLE TEXT": "TITEL TEKST",
 	"UI > TITLE BACKGROUND": "TITEL ACHTERGROND",
@@ -632,6 +633,7 @@
 	"Custom Input": "Eigen invoer",
 	"Window Tint": "Tint ruiten",
 	"None": "Geen",
+	"Stock": "Standaard",
 	"Turbo": "Turbo",
 	"Xenon": "Xenon",
 	"Remove All Upgrades": "Alle upgrades verwijderen",
@@ -640,5 +642,7 @@
 	"Prop Gun": "Prop pistool",
 	"Smash Mode": "Rammen",
 	"Reset Settings": "Instellingen herstellen",
-	"Crash Player": "Laat spel crashen"
+	"Crash Player": "Laat spel crashen",
+	"Add to Favourites": "Aan favorieten toevoegen",
+	"Remove from Favourites": "Van favorieten verwijderen"
 }
