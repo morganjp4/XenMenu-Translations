@@ -18,7 +18,7 @@ If you'd like to make an addition to this GitHub, please don't hesitate to submi
 
 -dermancolak *Turkish*
 
--Rysholt *Spanish*
+-Rysholt & Zmyle_ *Spanish*
 
 -GuYodaGCS *PT-BR*
 
