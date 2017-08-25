@@ -10,6 +10,8 @@ If you'd like to make an addition to this GitHub, please don't hesitate to submi
 If you're running into issues regarding translations or have general questions, feel free to contact us on our [Discord](https://xenmenu.com/discord/).
 
 ### Credits
+We appreciate all of you who made a contribution!
+
 - DomBooker *Autistic*
 - davidebic *Italian*
 - Muz *Malay*
@@ -19,7 +21,7 @@ If you're running into issues regarding translations or have general questions, 
 - DNSMaster *Finnish*
 - dermancolak *Turkish*
 - Rysholt & Zmyle_ *Spanish*
-- GuYodaGCS *PT-BR*
+- GuYodaGCS *Portuguese*
 - lenololy *Russian*
 - XavierDolan *Traditional Chinese*
 - KoriaN *Polish*
