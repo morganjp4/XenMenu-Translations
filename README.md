@@ -12,17 +12,17 @@ If you're running into issues regarding translations or have general questions, 
 ### Credits
 We appreciate all of you who made a contribution!
 
-- DomBooker *Autistic*
-- davidebic *Italian*
-- Muz *Malay*
-- RainerReinfall *German*
-- L3GRIB *French*
-- xVince *Romanian*
-- DNSMaster *Finnish*
-- dermancolak *Turkish*
-- Rysholt & Zmyle_ *Spanish*
-- GuYodaGCS *Portuguese*
-- lenololy *Russian*
-- XavierDolan *Traditional Chinese*
-- KoriaN *Polish*
-- 7eye^^ & Senex *Dutch*
+- **Autistic:** DomBooker
+- **Dutch:** 7eye^^ & Senex
+- **Finnish:** DNSMaster
+- **French:** L3GRIB
+- **German:** RainerReinfall
+- **Italian:** davidebic
+- **Malay:** Muz
+- **Polish:** KoriaN
+- **Portuguese:** GuYodaGCS
+- **Romanian:** xVince
+- **Russian:** lenololy
+- **Spanish:** Rysholt & Zmyle_
+- **Traditional Chinese:** XavierDolan
+- **Turkish:** dermancolak
