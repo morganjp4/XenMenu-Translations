@@ -7,7 +7,7 @@ If you'd like to make an addition to this GitHub, please don't hesitate to submi
 - Please do not remove existing authors when updating files. You are always free to make edits to existing language, but that does not mean you get to be the sole author of the language.
 
 ### Translation help
-If you're running into issues regarding translations or have general questions, feel free to contact us on our [Discord](https://discordapp.com/invite/GGCfYU).
+If you're running into issues regarding translations or have general questions, feel free to contact us on our [Discord](https://xenmenu.com/discord/).
 
 ### Credits
 - DomBooker *Autistic*
