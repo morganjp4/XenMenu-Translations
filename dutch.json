@@ -644,5 +644,7 @@
 	"Reset Settings": "Instellingen herstellen",
 	"Crash Player": "Laat spel crashen",
 	"Add to Favourites": "Aan favorieten toevoegen",
-	"Remove from Favourites": "Van favorieten verwijderen"
+	"Remove from Favourites": "Van favorieten verwijderen",
+	"~c~Tunables": "~c~Afstembaarheden",
+	"~c~Tunables_tooltip": "Afstembaarheden zijn alleen beschikbaar wanneer je online bent."
 }
