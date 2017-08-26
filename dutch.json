@@ -645,7 +645,5 @@
 	"Crash Player": "Laat spel crashen",
 	"Add to Favourites": "Aan favorieten toevoegen",
 	"Remove from Favourites": "Van favorieten verwijderen",
-	"~c~Tunables": "~c~Afstembaarheden",
-	"~c~Tunables_tooltip": "Afstembaarheden zijn alleen beschikbaar wanneer je online bent.",
 	"Exclude Friends from Online Options": "Vrienden negeren in online opties"
 }
