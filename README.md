@@ -8,11 +8,12 @@ If you'd like to make an addition to this GitHub, please don't hesitate to submi
 - Please do not remove existing authors when updating files. You are always free to make edits to existing languages, but that does not mean you get to be the sole author of the language. Feel free to add yourself to the author line, though!
 
 ### Translation help
-If you're running into issues regarding translations or have general questions, feel free to contact us on our [Discord](https://xenmenu.com/discord/). Please do not contact us with language-specific questions. You are the translator and should be able to translate correctly.
+Should there be any doubt about formality, choose informal language. If you're running into issues regarding translations or have general questions, feel free to contact **Senex** (Chief Translator) on our [Discord](https://xenmenu.com/discord/). Please do not contact us with language-specific questions. You are the translator and should be able to translate correctly.
 
 ### Credits
 We appreciate all of you who made a contribution!
 
+- **General:** Senex (Chief Translator)
 - **Autistic:** DomBooker
 - **Dutch:** 7eye^^ & Senex
 - **Finnish:** DNSMaster
