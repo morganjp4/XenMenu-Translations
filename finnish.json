@@ -225,8 +225,6 @@
 	"Doors": "Ovet",
 	"Invincible": "Tuhoutumaton",
 	"Auto Repair": "Automaattinen korjaus",
-	"Horn Boost": "Tööttiboosti",
-	"Horn Boost_tooltip": "pidä pohjassa ~b~[E]~w~ kasvattaaksesi nopeutta!",
 	"Speedometer": "Nopeusmittari",
 	"Speedometer_tooltip": "Näyttää kulkuneuvosi nopeuden alareunassa.",
 	"Vehicle Drift": "Kulkuneuvon Driftaus",

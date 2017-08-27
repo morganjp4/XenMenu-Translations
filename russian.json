@@ -223,8 +223,6 @@
 	"Doors": "Двери",
 	"Invincible": "Неуязвимость",
 	"Auto Repair": "Авто-Починка",
-	"Horn Boost": "Ускорение",
-	"Horn Boost_tooltip": "Удерживайте ~b~[E]~w~ для ускорения!",
 	"Speedometer": "Спидометр",
 	"Speedometer_tooltip": "Отображает текущую скорость автомобиля в правом нижнем углу экрана.",
 	"Vehicle Drift": "Дрифт",
