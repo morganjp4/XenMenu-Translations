@@ -17,6 +17,7 @@ We appreciate all of you who made a contribution!
 
 - **Translation Manager:** Senex
 - **Autistic:** DomBooker
+- **Czech**: SkyCityCZ
 - **Dutch:** 7eye^^ & Senex
 - **Finnish:** DNSMaster
 - **French:** L3GRIB
