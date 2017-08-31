@@ -501,7 +501,7 @@
 	"0comment_NEW_IN_XEN_1.0.2": "DONT CHANGE THIS",
 	"Search for an Object": "Object zoeken",
 	"Search for an Object_tooltip": "Opent een invoerveld waarin je naar een object kunt zoeken.",
-	"Reset Search": "Zoekopdracht verwijderen",
+	"Reset Search": "Zoekopdracht wissen",
 	"ChangeEntityName_tooltip": "~b~[R]~w~ Hernoemen",
 	"Delete Entity": "Entiteit verwijderen",
 	"Objects": "Objecten",
@@ -521,7 +521,7 @@
 	"Creator": "Creatiemodus",
 	"Sweat Level": "Zweetniveau",
 	"Search for Model": "Model zoeken",
-	"Texture": "Texture",
+	"Texture": "Textuur",
 	"Remote": "Op afstand",
 	"Freeze": "Vastzetten",
 	"Clone": "Klonen",
@@ -531,7 +531,6 @@
 	"Database": "Database",
 	"Spawn Settings": "Plaats instellingen",
 	"Creator Settings": "Creatiemodus instellingen",
-
 	"MAIN MENU": "HOOFDMENU",
 	"SELF OPTIONS": "JEZELF",
 	"SELF ANIMATIONS": "ANIMATIES",
@@ -644,5 +643,6 @@
 	"Crash Player": "Laat spel crashen",
 	"Add to Favourites": "Aan favorieten toevoegen",
 	"Remove from Favourites": "Van favorieten verwijderen",
-	"Exclude Friends from Online Options": "Vrienden negeren in online opties"
+	"Exclude Friends from Online Options": "Vrienden negeren in online opties",
+	"Reset Search_tooltip": "Wist de huidige zoekopdracht en laat alle modellen weer zien."
 }
